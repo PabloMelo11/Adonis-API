@@ -1,12 +1,6 @@
-# Adonis API application
+# Adonis API Projects and Tasks
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
-
-1. Bodyparser
-2. Authentication
-3. CORS
-4. Lucid ORM
-5. Migrations and seeds
+This application is a simple project and task creation API using AdonisJS
 
 ## Setup
 
@@ -17,7 +11,6 @@ adonis new yardstick --api-only
 ```
 
 or manually clone the repo and then run `npm install`.
-
 
 ### Migrations
 
